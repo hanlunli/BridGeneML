@@ -1,0 +1,12 @@
+Company,Exchange,Ticker,IPO Date,Offer Price (USD),Gross Proceeds (USD M),Investment Banks,Market Cap at IPO (USD M),"Market Cap as of May 1, 2025 (USD M)","Stock Price May 1, 2025 (USD)","Stock Price Jun 2, 2025 (USD)","Stock Price Jul 1, 2025 (USD)",Therapeutic Sector,Lead Candidate,Platform / Target,Stage at IPO
+MIRA Pharmaceuticals,NASDAQ,MIRA,"Aug 2, 2023",$7.00,8.9,Kingswood Investments,8.9,8.90,$1.14,$1.57,$1.60,Neurology (Cognitive Decline),MIRA1a,Synthetic THC analog,Preclinical
+Turnstone Biologics,NASDAQ,TSBX,"Jul 21, 2023",$12.00,80,"Goldman Sachs, Jefferies, BofA, Leerink, Piper",80,60,$3.75,$4.20,$4.10,Oncology (Immuno-oncology),TIDAL-01,TIL (Tumor-Infiltrating Lymphocytes),1
+Intensity Therapeutics,NASDAQ,INTS,"Jun 30, 2023",$5.00,19.5,"Benchmark, Freedom Capital Markets",19.5,18,$0.46,$0.50,$0.48,Oncology (Immunotherapy),INT230-6,DfuseRx™ intratumoral delivery,2
+Azitra,NASDAQ,AZTA,"Jul 20, 2023",$10.00,24,"Jefferies, Chardan",24,80,$16.00,$17.20,$18.50,Dermatology,AZT-08,Live biotherapeutics (probiotics),2
+Acelyrin,NASDAQ,SLRN,"August 16, 2022",$6.00,132,"Goldman Sachs, Jefferies, Chardan, SVB Leerink",132,N/A (merged),$2.58,Delisted,Delisted,Ocular Disease (Dry Eye),AR-15512,ROCK inhibitor,2
+Kenvue,NYSE,KVUE,"May 4, 2023",$22.00,"3,800","Goldman Sachs, J.P. Morgan, Bank of America",41560,"17,000",$9.00,$9.50,$9.30,Consumer Health,N/A,J&J consumer healthcare spin-off,Post-Spinout IPO
+CytoMed Therapeutics,NASDAQ,CYTH,"Apr 11, 2024",$5.00,33,Stifel Nicolaus,33,25,$1.25,$1.35,$1.40,Oncology (CAR-T),CT043,iSNAP modulated CAR-T cells,IND enabling
+Mineralys Therapeutics,NASDAQ,BTAI,"Jun 8, 2023",$16.00,65,"Citigroup, Cowen",65,50,$3.00,$3.10,$3.25,Metabolic/CNS,BTA07,Chemoablation therapy,2
+Structure Therapeutics,NASDAQ,SBUX,"Jul 20, 2023",$17.00,120,"JP Morgan, Evercore ISI, Needham",120,25.5,$26.00,$25.50,$27.00,Neurology (Alzheimer’s),Simufilam,Small molecule amyloid-targeting,3
+Genelux Corporation,NASDAQ,GNLX,"Apr 27, 2023",$17.00,100,"Wedbush, BTIG, LifeSci Capital",100,50,$4.50,$4.80,$5.00,Oncology (Oncolytic virus),Olvi-Vec,Oncolytic herpesvirus,2
+Cadrenal Therapeutics,NASDAQ,CVKD,"Jan 20, 2023",$5.00,7,Boustead Securities,7,10.5,$16.50,$13.54,$11.67,Cardiorenal (CKD + AFib),Tecarfarin,Oral vitamin K antagonist,2
